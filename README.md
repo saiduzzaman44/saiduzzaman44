@@ -13,7 +13,7 @@
 - Go-based backend projects—open to contributing to any projects focused on scalability and performance!
 
 📫 **How to Reach Me**:  
-- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/saiduzzaman44) or drop me a message right here on GitHub!
+- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/saiduzzaman-zishan-52943a280/) or drop me a message right here on GitHub!
 
 😄 **Pronouns**: He/Him  
 ⚡ **Fun Fact**: When I’m not coding, I’m usually lost in 🎶 music, ♟️ chess strategies, or getting absorbed in an anime series 🎌!
